@@ -71,7 +71,7 @@
 
 - 🤖 Machine Learning & Predictive Modeling
 - 📊 Data Analysis, Visualization, and Insights
-- 📊 **Data Science Dashboards** and analytics pipelines
+- 📊 Data Science Dashboards and analytics pipelines
 
 ---
 
