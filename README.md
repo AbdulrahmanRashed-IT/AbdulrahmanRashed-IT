@@ -4,7 +4,7 @@
   👋 Hi, I'm <span style="color:#00acee;">Abdulrahman Rashed</span>
 </h1>
 <h3 align="center">
-  🚀 Full-Stack Developer | 🌐 Network Engineer (CCNA) | 🛠️ IT Support (MCSA, Linux Admin)
+  🧠 Machine Learning  | 📊 Data Scientist & Analyst 
 </h3>
 
 <p align="center">
@@ -18,14 +18,13 @@
 ---
 
 ### 🚧 Currently Building
-- 🎯 **Digital systems** for student unions
-- 📦 **Inventory Management Systems**
-- ☁️ **Cloud-based Laravel and React Apps**
+- 🤖 **Machine Learning Models** for predictive analytics and data-driven insights
+- 📊 **Data Science Dashboards** and analytics pipelines
+- 📦 **Inventory Management Systems** & Digital tools for student unions
 
 ### 🌱 Currently Learning
-- ⚙️ **Advanced Laravel & React**
-- 🌐 **Cloud Networking & Server Admin**
-- 🛡️ **Cybersecurity Best Practices**
+- 🧠 **Advanced Deep Learning & NLP**
+- 📈 **Big Data Analytics & Statistical Modeling**
 
 ---
 
@@ -45,21 +44,10 @@
 
 ---
 
-### 🚀 Featured Projects
-<table>
-  <tr>
-    <td><a href="https://github.com/AbdulrahmanRashed-IT/Pharmacy_Management_System">💊 Pharmacy Management System</a></td>
-    <td><a href="https://github.com/AbdulrahmanRashed-IT/Shoes_Store_Ordering_System_Online-Offline">👟 Sandal Ordering System</a></td>
-    <td><a href="https://github.com/AbdulrahmanRashed-IT/Cafe-Ordering-System">☕ Café Ordering System</a></td>
-  </tr>
-</table>
-
----
-
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,react,python,java,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,pandas,numpy,mysql,laravel,react,linux,git,github,java" />
 </p>
 
 ---
@@ -75,16 +63,15 @@
 
 ### ⚡ Fun Fact
 
-> 🌍 I'm from Yemen 🇾🇪, currently studying in Indonesia 🇮🇩, and building global tech solutions 🌐.
+> 🌍 I'm from Yemen 🇾🇪, currently undergraduate from Indonesia 🇮🇩, and building global tech solutions 🌐.
 
 ---
 
 ### 💬 Ask Me About
 
-- ✅ Full-Stack Web Development (PHP, Laravel, React, MySQL)
-- 🌐 Network Configuration (Cisco Routers & VLANs)
-- 🖥️ Windows / Linux Server Management
-- 🧠 Problem Solving & IT Support
+- 🤖 Machine Learning & Predictive Modeling
+- 📊 Data Analysis, Visualization, and Insights
+- 📊 **Data Science Dashboards** and analytics pipelines
 
 ---
 
