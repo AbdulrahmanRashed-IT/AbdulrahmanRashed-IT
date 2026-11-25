@@ -4,7 +4,7 @@
   👋 Hi, I'm <span style="color:#00acee;">Abdulrahman Rashed</span>
 </h1>
 <h3 align="center">
-  🧠 Machine Learning  | 📊 Data Scientist & Analyst 
+  🧠 Machine Learning  | 📊 Data Scientist & Analyst | Network Intrusion Detection Systems| Cybersecurity
 </h3>
 
 <p align="center">
@@ -23,8 +23,9 @@
 - 📦 **Inventory Management Systems** & Digital tools for student unions
 
 ### 🌱 Currently Learning
-- 🧠 **Advanced Deep Learning & NLP**
-- 📈 **Big Data Analytics & Statistical Modeling**
+-  **Network Intrusion Detection Systems & Cybersecurity**
+-  **Advanced Deep Learning & NLP**
+-  **Big Data Analytics & Statistical Modeling**
 
 ---
 
